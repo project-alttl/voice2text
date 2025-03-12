@@ -20,7 +20,7 @@ Project Alttul は、人々が節約し、より効率的な生活を送るこ�
 
 ### ✅ **ソフトウェア要件**  
 - **NVIDIA グラフィックドライバ**（最新バージョン）  
-- **NVIDIA CUDA 1.18**  
+- **NVIDIA CUDA 11.8**  
 - **Python 3.10**  
 - **必須 Python モジュール:** `requirements.txt` を参照  
 

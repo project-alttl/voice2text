@@ -20,7 +20,7 @@ Project Alttl is an open-source initiative dedicated to creating software that h
 
 ### ✅ **Software**  
 - **NVIDIA Graphics Driver** (Latest version)  
-- **NVIDIA CUDA 1.18**  
+- **NVIDIA CUDA 11.8**  
 - **Python 3.10**  
 - **Required Python Modules:** See `requirements.txt`  
 

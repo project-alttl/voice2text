@@ -20,7 +20,7 @@
 
 ### ✅ **소프트웨어**  
 - **NVIDIA 그래픽 드라이버** (최신 버전)  
-- **NVIDIA CUDA 1.18**  
+- **NVIDIA CUDA 11.8**  
 - **Python 3.10**  
 - **필수 파이썬 모듈:** `requirements.txt` 참고  
 

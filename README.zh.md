@@ -20,7 +20,7 @@ Project Alttul 是一个开源项目，旨在帮助人们节省开支并提高�
 
 ### ✅ **软件要求**  
 - **NVIDIA 显卡驱动**（最新版本）  
-- **NVIDIA CUDA 1.18**  
+- **NVIDIA CUDA 11.8**  
 - **Python 3.10**  
 - **所需 Python 模块:** 见 `requirements.txt`  
 
