@@ -1,4 +1,4 @@
-# 省钱项目 (Project Alttl) - Video2Text  
+# 省钱项目 (Project Alttl) - Voice2Text  
 
 ![example](example.gif)
 
@@ -8,7 +8,7 @@
 ## 💡 什么是 Project Alttl?  
 Project Alttul 是一个开源项目，旨在帮助人们节省开支并提高生活效率。无论是通过自动化、节约成本的解决方案，还是智能理财工具，我们的目标都是让科技为您的钱包服务。  
 
-## 🚀 Video2Text - 主要功能  
+## 🚀 Voice2Text - 主要功能  
 - AI驱动的视频/音频文本摘要  
 - 多语言支持（英语、韩语、中文、日语）  
 - 轻量级、用户友好的设计  

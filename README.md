@@ -1,4 +1,4 @@
-# Project Alttl - Video2Text 
+# Project Alttl - Voice2Text 
 
 ![example](example.gif)
 
@@ -8,7 +8,7 @@
 ## 💡 What is Project Alttl?  
 Project Alttl is an open-source initiative dedicated to creating software that helps people save money and live more efficiently. Whether it's through automation, cost-cutting solutions, or smarter financial tools, our goal is to make technology work for your life.  
 
-## 🚀 Video2Text - Features  
+## 🚀 Voice2Text - Features  
 - AI-powered(OpenAI Whisper) text summarization from video/audio files  
 - Multi-language support (English, Korean, Chinese, Japanese)  
 - user-friendly GUI  
